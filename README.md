@@ -12,6 +12,7 @@
 - numpy
 - sklearn
 - matplotlib
+- openCV
 - jupyter notebook
 - anaconda
 - data bricks
