@@ -3,7 +3,7 @@
 
 ## General Info
 - This project was done to compare the accuracy of Elastic Regression and Random Forest algorithms on a regular machine versus on a big data processing tool ie. Data Bricks
-- The report covers the sets taken throughout the process of making this project and also discusses findings.
+- The report covers the sets taken throughout the process of making this project and also discusses findings. Can be found [_here_](https://github.com/jaiacouc/FruitClassification/blob/main/Latex/Fruit_Classification%20(1).pdf)
 - This project was done as a part of a Big Data and Machine Learning class.
 
 ## Technology Used
